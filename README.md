@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-composer install
-copy .env.example .env
-php artisan key:generate
-configurar DB
-php artisan migrate
-php artisan serve
-=======
-# Yisus-Murillo-Laboratorio-N-2
+
+# Yisus-Murillo-Laboratorio final
 trabajo en laravel con backend en voyager humilde pero para usted mi inge
 >>>>>>> 3eaabe31f374d368f4821da60afb31ad1f71db68
 # Laboratorio Final – Backend (Laravel)
